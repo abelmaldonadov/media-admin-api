@@ -1,0 +1,5 @@
+PROD_PORT=
+DEV_PORT=
+
+# 'prod' OR 'dev'
+ENVIRONMENT=
